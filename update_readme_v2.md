@@ -1,7 +1,7 @@
 # Modelagem de Dados
-<p>Formação de Modelagem de dados da Alura, é ministrada pelos professores Daniel Siqueira, Ana Duarte e Danielle Oliveira. Foi ministrado durante as aulas formação do curso: Modelagem de dados Funcional, Conceitual e fisica. Houve também a aplicação prática de normalização de dados </p>
+<p>Formação de Modelagem de dados da Alura, é ministrada pelos professores Daniel Siqueira, Ana Duarte e Danielle Oliveira. Foi ministrado durante as aulas formação do curso: Modelagem de dados Funcional, Conceitual e fisica. Houve também a aplicação prática de normalização de dados. </p>
 
-<p>Para as aulas de modelagem, foram utilizados os softwares BrModelo e Power architect. Já para as aula de normalização de dados foi utilizado o VSCODE, juntamente com a instalação da extensão SQLLITE</p>
+<p>Para as aulas de modelagem, foram utilizados os softwares BrModelo e Power architect. Já para as aula de normalização de dados foi utilizado o VSCODE, juntamente com a instalação da extensão SQLLITE.</p>
  
 
 > <b> Modelagem Conceitual <b>
